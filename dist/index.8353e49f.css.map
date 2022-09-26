@@ -1,0 +1,1 @@
+{"mappings":"AAEA;;;;AAGA;;;;AACA","sources":["style.scss"],"sourcesContent":["$background: white;\r\n\r\nbody{\r\n    background:$background;\r\n}\r\nh1{text-align: center;}\r\nbutton{display: flex; justify-content: center;}"],"names":[],"version":3,"file":"index.8353e49f.css.map","sourceRoot":"../"}
