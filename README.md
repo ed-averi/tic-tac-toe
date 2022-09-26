@@ -48,4 +48,8 @@ Use CSS keyframes to specify a sequence of background colors.
 100% {background-color:blue} }
 
 #demo { animation: col 5s infinite }
+
 ```
+<br>
+
+<img src="https://raw.githubusercontent.com/ed-averi/tic-tac-toe/main/assets/wakatime-tic-tac-toe.jpg"/>
