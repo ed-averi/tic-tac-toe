@@ -4,7 +4,9 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "(npx parcel ./index.html) & npx parcel watch ./index.html"
+    "start": "(npx parcel ./index.html) & npx parcel watch ./index.html",
+    "build": "cross-env NODE_ENV=production parcel build src/index.html --public-url .",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
